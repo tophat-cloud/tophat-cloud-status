@@ -7,15 +7,17 @@ sites:
     url: https://cumulus.tophat.cloud
   - name: Cumulus Back
     url: $CUMULUS_API_SERVER_URL
+  - name: Metalink
+    url: https://metalink.tophat.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.cumulus.tophat.cloud
+  cname: status.tophat.cloud
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Tophat Cloud
-  introTitle: "**Cumulus** is a simple weakness monitoring tool."
+  introTitle: "Services by **Tophat**"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   # navbar:
   #   - title: Status
