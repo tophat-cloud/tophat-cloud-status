@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
+    "time": 793,
+    "timeDay": 793,
+    "timeWeek": 793,
+    "timeMonth": 793,
+    "timeYear": 793,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/metalink.tophat.cloud",
     "slug": "metalink",
     "status": "down",
-    "uptime": "80.85%",
-    "uptimeDay": "80.85%",
-    "uptimeWeek": "80.85%",
-    "uptimeMonth": "80.85%",
-    "uptimeYear": "80.85%",
+    "uptime": "7.23%",
+    "uptimeDay": "7.23%",
+    "uptimeWeek": "7.23%",
+    "uptimeMonth": "7.23%",
+    "uptimeYear": "7.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-08": 0
+      "2021-09-08": 6
     }
   }
 ]
