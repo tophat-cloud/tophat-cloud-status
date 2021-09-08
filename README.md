@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.cumulus.tophat.cloud): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.tophat.cloud): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [TopHat](https://tophat.cloud), powered by [Upptime](https://github.com/upptime/upptime).
 
