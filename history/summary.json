@@ -22,18 +22,20 @@
     "url": "$CUMULUS_API_SERVER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cumulus-back",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 775,
     "timeDay": 775,
     "timeWeek": 775,
     "timeMonth": 775,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-09": 1
+    }
   },
   {
     "name": "Metalink",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/metalink.tophat.cloud",
     "slug": "metalink",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-09": 37,
+      "2021-09-09": 214,
       "2021-09-08": 466
     }
   }
