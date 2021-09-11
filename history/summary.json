@@ -22,18 +22,19 @@
     "url": "$CUMULUS_API_SERVER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cumulus-back",
-    "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "97.65%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
     "time": 842,
     "timeDay": 989,
     "timeWeek": 842,
     "timeMonth": 842,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2021-09-11": 1,
       "2021-09-09": 80
     }
   },
@@ -54,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-11": 35,
+      "2021-09-11": 1172,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
       "2021-09-08": 466
