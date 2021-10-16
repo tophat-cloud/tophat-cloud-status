@@ -6,7 +6,7 @@ sites:
   - name: Cumulus Front
     url: https://cumulus.tophat.cloud
   - name: Cumulus Back
-    url: $CUMULUS_API_SERVER_URL
+    url: $CUMULUS_BACK_HEALTHCHECK_URL
   - name: Metalink
     url: https://metalink.tophat.cloud
 
